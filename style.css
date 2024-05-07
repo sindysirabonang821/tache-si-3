@@ -6,6 +6,9 @@ body{
 section{
     padding: 50px 0;
 }
+.fa-stream{
+    color: white;
+}
 .main-btn{
     display: inline-block;
     border-radius: 50px;
@@ -98,7 +101,7 @@ button {
 }
 .header_wrapper .navbar-toggler {
     border: 0;
-    color: color;
+    color: white;
     line-height:2;
 }
 .header_wrapper .navbar-toggler:focus {
